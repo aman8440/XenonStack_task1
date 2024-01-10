@@ -1,6 +1,5 @@
 # XenonStack_task1
 
-[Delete]
 
 for help 
 ```
