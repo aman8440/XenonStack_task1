@@ -8,6 +8,15 @@ for help
 
 ![Screenshot from 2024-01-10 14-05-02](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/08ec4a06-0d56-4b4f-b77f-f98369c6564a)
 
+for version 
+
+```
+./internsctl.sh -v
+```
+![Screenshot from 2024-01-10 15-01-20](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/0397461d-e28d-4469-b45e-2df69ec11ec4)
+
+
+
 for cpu usage 
 
 ```
@@ -52,4 +61,6 @@ vikash@User:~/Desktop/Aman$ ./internsctl.sh file_getinfo hello.txt -m
 
 ```
 
-![Screenshot from 2024-01-10 14-44-30](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/3e36cb1c-d1d0-45e9-a5e3-55dde7a60039)
+![Screenshot from 2024-01-10 15-05-32](https://github.com/Vikash-8090-Yadav/Cloud-A2Z-Devops/assets/85225156/21ac4315-78cc-4a1d-aad5-bae67a41d305)
+
+
